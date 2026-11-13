@@ -1,0 +1,1 @@
+Number of days with negative temperatures: 3
